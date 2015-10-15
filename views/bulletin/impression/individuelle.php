@@ -102,7 +102,12 @@ $pdf->WriteHTMLCell(0, 5, 95, $y + 33, '<div style="text-transform:uppercase">'.
 
 $pdf->setFontSize(8);
 # Table header
-$corps = '<table border="0.5" cellpadding="0.5" style="line-height: 12px"><thead>'
+$nbMatieres = count($groupe1) + count($groupe2) + count($groupe3);
+$line_height = "11px";
+if($nbMatieres >= 14){
+    $line_height = "9px";
+}
+$corps = '<table border="0.5" cellpadding="0.5" style="line-height: '.$line_height.'"><thead>'
         . '<tr style="text-align:center;font-weight:bold; line-height: 15px;background-color:#444444;color:#FFF;">'
         . '<th border="0.5"  width="' . $col[1] . '%" style="text-align:left">&nbsp;&nbsp;Mati&egrave;res</th>'
         . '<th border="0.5" width="' . $col[2] . '%">DP</th>'

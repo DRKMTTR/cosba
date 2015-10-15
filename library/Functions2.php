@@ -242,7 +242,7 @@ function genererCourbe($moyennes, $eleve) {
 
             # $icon = new IconPlot($background, 25, 25, 0.8, 50);
         } else {
-            $graph->SetBackgroundImage(SITE_ROOT . "public/img/ipw.png", BGIMG_FILLPLOT);
+            //$graph->SetBackgroundImage(SITE_ROOT . "public/img/". LOGO, BGIMG_FILLPLOT);
             # $icon = new IconPlot(SITE_ROOT . "public/img/ipw.png", 25, 25, 0.8, 50);
         }
         # $icon->SetAnchor('right', 'bottom');
@@ -433,8 +433,8 @@ function getBody($groupe, $col, $el, &$sumtotal = 0, &$sumcoeff = 0) {
         if ($g['IDELEVE'] == $el['IDELEVE']) {
             $str .= '<tr style="text-align:center">';
             # Matiere
-            $g['NOM'] = preg_replace("%[^\033-\176\r\n\t]%", '', $g['NOM']);
-            $g['PRENOM'] = preg_replace("%[^\033-\176\r\n\t]%", '', $g['PRENOM']);
+            //$g['NOM'] = preg_replace("%[^\033-\176\r\n\t]%", '', $g['NOM']);
+            //$g['PRENOM'] = preg_replace("%[^\033-\176\r\n\t]%", '', $g['PRENOM']);
 
             $str .= '<td border="0.5" style="text-align:left" width="' . $col[1] . '%">&nbsp;&nbsp;<b>' . strtoupper($g['BULLETIN']) .
                     '</b><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:7px">'

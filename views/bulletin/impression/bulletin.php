@@ -1,9 +1,11 @@
 <?php
-
-$pdf->SetPrintFooter(false);
-$pdf->AddPage();
+global $bas_bulletin;
+$bas_bulletin[1] = $sequence['VERROUILLER'];
+$pdf->SetPrintFooter(true);
 # Desactiver le texte de signature pour les bulletins
 $pdf->bCertify = false;
+$pdf->AddPage();
+
 $pdf->leftUpCorner = 10;
 
 # Largeur des colonnes
@@ -34,6 +36,7 @@ $prev = 0;
 $style = array(
     'text' => true,
 );
+
 foreach ($rangs as $rang) {
     # Obtenir les autres infos de l'eleve
     foreach ($eleves as $el) {
@@ -41,16 +44,17 @@ foreach ($rangs as $rang) {
             break;
         }
     }
-
+    $pdf->SetFont("Times", "B", 15);
+    $y = PDF_Y;
+    $pdf->RoundedRect(75, $y - 5, 75, 7, 2.0, '1111', 'DF', '', array(255, 255, 255));
+    
+    $titre = '<div>BULLETIN DE NOTES</div>';
+    $pdf->WriteHTMLCell(0, 5, 85, $y - 5, $titre);
     $pdf->SetFont("Times", "B", 10);
-    $y = FIRST_TITLE;
-    $titre = "BULLETIN";
-    $pdf->WriteHTMLCell(0, 5, 102, $y - 5, $titre);
 
     $annee = "Ann&eacute;e scolaire " . $_SESSION['anneeacademique'];
-    $pdf->WriteHTMLCell(0, 5, 92, $y, $annee);
+    $pdf->WriteHTMLCell(0, 5, 92, $y + 5, $annee);
 
-    $pdf->WriteHTMLCell(0, 5, 102, $y + 5, $sequence['LIBELLEHTML']);
 
 # Le cadre pour la photo
     $photo = SITE_ROOT . "public/photos/eleves/" . $el['PHOTO'];
@@ -61,38 +65,50 @@ foreach ($rangs as $rang) {
     } else {
         $pdf->WriteHTMLCell(20, 20, 15, $y + 12, '<br/><br/>PHOTO', 1, 2, false, true, 'C');
     }
+    $pdf->Rect(37, $y + 12, 160, 20, 'DF');
 
     if (in_array($el['IDELEVE'], $array_of_redoublants)) {
         $redoublant = "OUI";
     } else {
         $redoublant = "NON";
     }
-    $pdf->SetFont("Times", "", 10);
+    $pdf->SetFont("Times", "", 9);
     $d = new DateFR($el['DATENAISS']);
 
     $matricule = 'Matricule&nbsp;: <b>' . $el['MATRICULE'] . '</b>';
-    $pdf->WriteHTMLCell(0, 5, 35, $y + 12, $matricule);
+    $pdf->WriteHTMLCell(0, 5, 37, $y + 13, $matricule);
 
     $nom = 'Nom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <b>' . $el['NOM'] . " " . $el['PRENOM'] . ' ' . $el['AUTRENOM'] . '</b>';
-    $pdf->WriteHTMLCell(0, 5, 35, $y + 17, $nom);
-
-    $naiss = "N&eacute;e le &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <b>"
+    $pdf->WriteHTMLCell(0, 5, 37, $y + 17, $nom);
+    $naiss = "N&eacute; ";
+    if($el['SEXE'] === "F"){
+        $naiss = "N&eacute;e ";
+    }
+    $naiss .= "le &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <b>"
             . $d->getDate() . " " . $d->getMois(3) . "-" . $d->getYear() . " &agrave; "
             . $el['LIEUNAISS'] . '</b>';
-    $pdf->WriteHTMLCell(0, 5, 35, $y + 22, $naiss);
+    $pdf->WriteHTMLCell(0, 5, 37, $y + 21, $naiss);
 
     #Adresse
     #classe
     $classelib = 'Classe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp; <b>' . $classe['NIVEAUHTML'] . '</b>';
-    $pdf->WriteHTMLCell(50, 5, 165, $y + 12, $classelib);
+    $pdf->WriteHTMLCell(50, 5, 165, $y + 13, $classelib);
     $effectiflib = 'Effectif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp; <b>' . $effectif . '</b>';
     $pdf->WriteHTMLCell(50, 5, 165, $y + 17, $effectiflib);
     $redo = "Redoublant &nbsp;:&nbsp; <b>" . $redoublant . '</b>';
-    $pdf->WriteHTMLCell(50, 5, 165, $y + 22, $redo);
+    $pdf->WriteHTMLCell(50, 5, 165, $y + 21, $redo);
+
+$pdf->setFontSize(13);
+$pdf->WriteHTMLCell(0, 5, 95, $y + 33, '<div style="text-transform:uppercase">'.$sequence['LIBELLEHTML']."</div>");
 
     $pdf->setFontSize(8);
     # Table header
-    $corps = '<table border="0.5" cellpadding="0.5" style="line-height: 10px"><thead>'
+$nbMatieres = (count($groupe1) + count($groupe2) + count($groupe3))/$effectif;
+$line_height = "11px";
+if($nbMatieres >= 14){
+    $line_height = "9px";
+}
+$corps = '<table border="0.5" cellpadding="0.5" style="line-height: '.$line_height.'"><thead>'
             . '<tr style="text-align:center;font-weight:bold; line-height: 15px;background-color:#444444;color:#FFF;">'
             . '<th border="0.5"  width="' . $col[1] . '%" style="text-align:left">&nbsp;&nbsp;Mati&egrave;res</th>'
             . '<th border="0.5" width="' . $col[2] . '%">DP</th>'
@@ -111,7 +127,7 @@ foreach ($rangs as $rang) {
     $corps .= getBody($groupe3, $col, $el);
 
     $corps .= "</tbody></table>";
-    $pdf->WriteHTMLCell(0, 5, 14, $y + 35, $corps);
+    $pdf->WriteHTMLCell(0, 5, 14, $y + 40, $corps);
 
     # RESUME DU TRAVAIL ACCOMPLI
     $pdf->setFontSize(7);
@@ -127,7 +143,8 @@ foreach ($rangs as $rang) {
     }
     $corps = printDiscipline($disc);
     $pdf->WriteHTMLCell(0, 0, 25, $y + 188, $corps);
-    $pdf->setFont("freemono", '', 8);
+$pdf->setFont("helvetica", '', 8);
+
 # Desinner la coube d'evolution
     $moyennes = getMoyennesRecapitulatives($recapitulatifs, $el['IDELEVE']);
     $moyennes[] = $rang['MOYGENERALE'];
@@ -158,16 +175,17 @@ foreach ($rangs as $rang) {
     $pdf->StartTransform();
     $pdf->Rotate(90, 15, $y + 171);
 # Numero de la page
-    $pdf->WriteHTMLCell(50, 5, 20, $y + 166, '<i>' . $rang['RANG'] . '/' . $effectif . '</i>');
+    $pdf->WriteHTMLCell(50, 5, 20, $y + 166, '<b>' . $rang['RANG'] . '/' . $effectif . '</b>');
     $pdf->StopTransform();
 
     $pdf->setFont("helvetica", '', 8);
     # Visa des parents
-    $pdf->WriteHTMLCell(0, 5, 80, $y + 215, 'Visa des Parents');
+    $pdf->WriteHTMLCell(0, 5, 80, $y + 205, 'Visa des Parents');
     # Titulaire
-    $pdf->WriteHTMLCell(0, 5, 125, $y + 215, 'Titulaire');
+    $pdf->WriteHTMLCell(0, 5, 125, $y + 205, 'Titulaire');
     # Le Directeur des etudes
-    $pdf->WriteHTMLCell(100, 5, 165, $y + 215, 'Le Directeur des &eacute;tudes');
+    $pdf->WriteHTMLCell(100, 5, 165, $y + 205, 'Le Directeur des &eacute;tudes');
+    $bas_bulletin[0] = $el['NOM'] . " " . $el['PRENOM'];
     
     $eff++;
     if ($eff <= $effectif) {
