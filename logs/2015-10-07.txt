@@ -1,0 +1,743 @@
+Time : 23:43:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 23:41:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
+
+Time : 11:17:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) > 0  ORDER BY IDGROUPE ASC' at line 1
+Raw SQL : SELECT g.* FROM groupemenus g  WHERE ( SELECT COUNT(m.IDMENUS) FROM menus m WHERE m.CODEDROIT IN ()) > 0  ORDER BY IDGROUPE ASC
